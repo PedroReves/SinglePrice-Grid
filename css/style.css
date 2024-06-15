@@ -118,3 +118,10 @@ body {
   list-style: none;
   text-align: start;
 }
+
+@media (max-width: 690px) {
+  .container {
+    display: flex;
+    flex-flow: column nowrap;
+  }
+}

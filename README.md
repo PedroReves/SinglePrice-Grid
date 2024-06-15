@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Live Website](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/PedroReves/SinglePrice-Grid)
+- Live Site URL: [Live Website](https://pedroreves.github.io/SinglePrice-Grid/)
 
 ## My process
 
